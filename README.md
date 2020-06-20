@@ -30,3 +30,5 @@ Write a Verilog code and simulate your solution.
 - `tb_store_reg.v` has a testbench implementation which simulates all cases above.
 
 - The code is synthesisable, verified in Xilinx ISE 14
+
+- The diagrams in `sm_*_.pdf` represent the state machines. Generated using Intel Quartus Prime :)
